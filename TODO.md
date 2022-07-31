@@ -1,7 +1,7 @@
 # TODO
 
-- Add [login using Spotify](https://next-auth.js.org/providers/spotify)
-  - Figure out JWT stuff: https://next-auth.js.org/configuration/options#jwt  
+- Add [login using Spotify](https://next-auth.js.org/providers/spotify) :white_check_mark:
+- Figure out JWT stuff: https://next-auth.js.org/configuration/options#jwt :question:
 - Grab the user's latest top artists/songs (ideally using an oauth token straight from nextauth)
 - Print the top artists on a page when logged in
 - Use top artists to grab recommendations (log)
